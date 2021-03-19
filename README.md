@@ -1,6 +1,6 @@
 ## Welcome to Math Utility Repository. This repo offers various math methods used as a helper for your project.
 
-###You will find in this repo the following stuff:
+### *_You will find in this repo the following stuff:_*
 
 * .gitignore file itself to demonstrate how to ask the Git tool to upload a file or not
 * README.md file isself to show the Homepage of this repo 
@@ -8,7 +8,7 @@
 * (TBA...)
 
 #### Connect me via
-[My Facebook](https://www.facebook.com/tienFuK14/)
+[My Facebook](https://www.facebook.com/tienFuK14/)  
 [My email](mailto: vominhtienyahoo@gmail.com)
 
 © 2021 SE140881

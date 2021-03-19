@@ -8,7 +8,7 @@
 * (TBA...)
 
 #### Connect me via
-[My Facebook] (https://www.facebook.com/tienFuK14/)
+[My Facebook](https://www.facebook.com/tienFuK14/)
 [My email](mailto: vominhtienyahoo@gmail.com)
 
 © 2021 SE140881
